@@ -1,5 +1,5 @@
 module Hutch
-  module Rollbar
+  class Rollbar
     VERSION = "0.1.0"
   end
 end
